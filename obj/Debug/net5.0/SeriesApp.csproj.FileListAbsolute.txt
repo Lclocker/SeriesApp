@@ -1,0 +1,16 @@
+D:\Me\projetos\Bootcamp DIO\WebApplication1\SeriesApp\bin\Debug\net5.0\SeriesApp.exe
+D:\Me\projetos\Bootcamp DIO\WebApplication1\SeriesApp\bin\Debug\net5.0\SeriesApp.deps.json
+D:\Me\projetos\Bootcamp DIO\WebApplication1\SeriesApp\bin\Debug\net5.0\SeriesApp.runtimeconfig.json
+D:\Me\projetos\Bootcamp DIO\WebApplication1\SeriesApp\bin\Debug\net5.0\SeriesApp.runtimeconfig.dev.json
+D:\Me\projetos\Bootcamp DIO\WebApplication1\SeriesApp\bin\Debug\net5.0\SeriesApp.dll
+D:\Me\projetos\Bootcamp DIO\WebApplication1\SeriesApp\bin\Debug\net5.0\ref\SeriesApp.dll
+D:\Me\projetos\Bootcamp DIO\WebApplication1\SeriesApp\bin\Debug\net5.0\SeriesApp.pdb
+D:\Me\projetos\Bootcamp DIO\WebApplication1\SeriesApp\obj\Debug\net5.0\SeriesApp.csproj.AssemblyReference.cache
+D:\Me\projetos\Bootcamp DIO\WebApplication1\SeriesApp\obj\Debug\net5.0\SeriesApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Me\projetos\Bootcamp DIO\WebApplication1\SeriesApp\obj\Debug\net5.0\SeriesApp.AssemblyInfoInputs.cache
+D:\Me\projetos\Bootcamp DIO\WebApplication1\SeriesApp\obj\Debug\net5.0\SeriesApp.AssemblyInfo.cs
+D:\Me\projetos\Bootcamp DIO\WebApplication1\SeriesApp\obj\Debug\net5.0\SeriesApp.csproj.CoreCompileInputs.cache
+D:\Me\projetos\Bootcamp DIO\WebApplication1\SeriesApp\obj\Debug\net5.0\SeriesApp.dll
+D:\Me\projetos\Bootcamp DIO\WebApplication1\SeriesApp\obj\Debug\net5.0\ref\SeriesApp.dll
+D:\Me\projetos\Bootcamp DIO\WebApplication1\SeriesApp\obj\Debug\net5.0\SeriesApp.pdb
+D:\Me\projetos\Bootcamp DIO\WebApplication1\SeriesApp\obj\Debug\net5.0\SeriesApp.genruntimeconfig.cache
